@@ -10,7 +10,7 @@ parameters:
   - name: APIM_REPOSITORY_NAME
     type: string
     displayName: APIM repository for pull request
-    default: api-management
+    default: api2
   - name: API_MANAGEMENT_SERVICE_OUTPUT_FOLDER_PATH
     type: string
     displayName: Folder where you want to extract the artifacts
